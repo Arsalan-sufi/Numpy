@@ -1,0 +1,9 @@
+we can have two types of missing data:
+1- Not a number ->NaN
+2-None(for object data type)
+
+Now to identify where data is missing:
+
+isnull()
+True--NaN is missing
+False--Value is present

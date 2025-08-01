@@ -1,0 +1,12 @@
+Preserves data integrity
+Smooth trends
+Avoid data loss
+
+
+Example:
+10
+20
+NaN-----estimated as 30
+30
+40
+

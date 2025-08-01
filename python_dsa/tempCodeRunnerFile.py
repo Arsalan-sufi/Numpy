@@ -1,0 +1,1 @@
+print(func(s, l, r))
